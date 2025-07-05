@@ -108,6 +108,13 @@ Mobile Developer | CS Student @ MTI University
 LinkedIn: [https://www.linkedin.com/in/khalid-karam-44671b244/](https://www.linkedin.com/in/khalid-karam-44671b244/)  
 GitHub: [https://github.com/khalidkaram22](https://github.com/khalidkaram22)
 
+### 🧑‍💻 Author
+Youssef Ahmed
+Mobile Developer | CS Student 
+LinkedIn: [https://www.linkedin.com/in/khalid-karam-44671b244/](https://www.linkedin.com/in/youssefahmed9/)  
+GitHub: [https://github.com/khalidkaram22](https://github.com/youssefahmed9)
+
+
 ---
 
 ## 📜 License
